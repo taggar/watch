@@ -73,8 +73,11 @@ http://www.csszengarden.com/
 
 <img src="ZenGarden.PNG" height="500px">
 
-## Reading material
+## Reading Material
 
 * https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 * https://en.wikipedia.org/wiki/Separation_of_content_and_presentation
 
+And if you have trouble sleeping:
+
+* The SGML Handbook by Charles Goldfarb
