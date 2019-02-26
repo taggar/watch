@@ -45,7 +45,7 @@ SGML is the basis for the later HTML (an application of SGML, defining a specifi
 
 The advent of desktop publishing and WYSIWYG for the masses (sometimes called WYSIWYD - What You See Is What You Deserve - by those "in the know" -- hands up, those who remember the joys of converting publications between Ventura, PageMaker, Interleaf, DECWrite, ...) also led to a proliferating practice of creating web pages that used HTML as a formatting language and in doing so - again - mixed content and formatting instructions. 
 
-<img src="bad practice.png" height="200px">
+<img src="bloated-bad-markup.gif" width="500px">
 This sparked a movement for:
 
 * more semantics (an *SGML for the web*, later to be XML)
