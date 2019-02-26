@@ -8,6 +8,7 @@ In a Hurry? Scroll to the end!
 
 *Electronic manuscripts contained control codes or macros for formatting/layout.* In other words: content and layout were all mixed up in the same "machine code", **specific to the process that was being performed and to the system that was performing it. These codes and macros tended to be proprietary, leading to **issues of exchange, and repeated typesetting costs** (e.g. when printers were using different printing presses, or when a press was replaced by a new one from a different manufacturer).
 
+<img src="printing-press.jpg" height="200px">
 
 ### The Spark: GCA GenCode&reg;
 
@@ -44,6 +45,7 @@ SGML is the basis for the later HTML (an application of SGML, defining a specifi
 
 The advent of desktop publishing and WYSIWYG for the masses (sometimes called WYSIWYD - What You See Is What You Deserve - by those "in the know" -- hands up, those who remember the joys of converting publications between Ventura, PageMaker, Interleaf, DECWrite, ...) also led to a proliferating practice of creating web pages that used HTML as a formatting language and in doing so - again - mixed content and formatting instructions. 
 
+<img src="bad practice.png" height="200px">
 This sparked a movement for:
 
 * more semantics (an *SGML for the web*, later to be XML)
@@ -68,6 +70,8 @@ http://www.csszengarden.com/
 * Identical html
 * Different images and CSS
 * Resulting in [radically different visuals](http://www.mezzoblue.com/zengarden/alldesigns/)!
+
+<img src="ZenGarden.PNG" height="500px">
 
 ## Reading material
 
