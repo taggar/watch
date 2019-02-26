@@ -14,39 +14,40 @@ In a Hurry? Scroll to the end!
 September 1967: a Presentation by William Tunnicliffe from the GCA (Graphic Communications Association) at the Canadian Government Printing Office  on **"The separation of information content of documents from their format"** leads to 
 the start of the *generic coding movement* (for example, instead of "format-17" use "heading") and a "Generic Coding" project inside the GCA Composition Committee.
 
-### IBM's GML
+### Help is on the way
+
+Stuff for boring old farts. TL;DR.
+
+#### IBM's GML
 
 In 1969, three guys at IBM conduct a project for integrated law office information systems: Goldfarb, Mosher, and Lowrie. They come up with the *Generalized Markup Language* (**GML**), as a means of allowing text editing, formatting, and information retrieval systems to share documents. GML is based on the generic coding ideas, but rather than a tagging scheme it introduces the concept of a formally-defined **document type** with an explicit nested element structure. 
 
 GML was implemented in mainframe industrial-strength publishing systems. (IBM was the second largest publisher in the world!)
 
-### ANSI
+#### ANSI
 
 In 1978, the ANSI committee on Information Processing starts a project on *Computer Languages for the Processing of Text*. They ask *Goldfarb* to lead the project for a *text description language based on GML*. A first working drft is published in 1980. Draft 6 is issued in 1983 and adopted by the US Internal Revenue Service (IRS) and Department of Defense (DoD).
 
-### ISO
+#### ISO
 
 In 1984, ANSI and ISO team up in ISO/IEC JTC1/SC18/WG8. They issue a draft standard for **SGML** - Standard Generalized Mark-up Language - in October 1985. 
 
 In 1986, the first approved version of SGML is published - using a system developed internally at **CERN** -as ISO 8879:1986, .
 
-### HTML
-
-* 1980: Tim Berners-Lee, a contractor at CERN, proposes and prototypes a system for researchers to use and share documents.
-* 1989: He proposes an internet-based hypertext system.
-* 1990: He specifies a simple HyperText Mark-up Language and writes browser and server software.
-* 1991: He issues the first public description of HTML, comprising **18 elements**, strongly inspired on SGMLguid (a CERN Application of SGML). 
+SGML is the basis for the later HTML (an application of SGML, defining a specific vocabulary), and XML (a subset of SGML conventions as well as an extention).
 
 ### The Slippery Slope of the 90s 
 
-In the 90s, the advent of desktop publishing and WYSIWYG also led to a proliferating practice of creating web pages that use HTML as a formatting language and in doing so - again - mixed content and formatting instructions
+* 1990: Tim Berners-Lee (@CERN) specifies a simple HyperText Mark-up Language and writes browser and server software.
+* 1991: He issues the first public description of HTML, comprising **18 elements**, strongly inspired on SGMLguid (a CERN Application of SGML). 
+* 1995: HTML 2.0 is published as RFC 1866 (Request For Comments). 
+
+The advent of desktop publishing and WYSIWYG for the masses (sometimes called WYSIWYD - What You See Is What You Deserve - by those "in the know" -- hands up, those who remember the joys of converting publications between Ventura, PageMaker, Interleaf, DECWrite, ...) also led to a proliferating practice of creating web pages that used HTML as a formatting language and in doing so - again - mixed content and formatting instructions. 
 
 This sparked a movement for:
 
 * more semantics (an *SGML for the web*, later to be XML)
 * a separate way of coding style and layout (CSS, Cascading Style Sheets)
-
-
 
 ## 1996: Enter CSS
 
@@ -59,8 +60,6 @@ This separation can
 * reduce complexity and repetition in the structural content.
 
 Separation of formatting and content also makes it feasible to **present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice (via speech-based browser or screen reader), and on Braille-based tactile devices**. 
-
-
 
 ## Illustrating the Idea of Separating Content from Form
 
