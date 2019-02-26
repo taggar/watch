@@ -2,7 +2,7 @@
 
 In a Hurry? Scroll to the end!
 
-## Some History
+## Some History (just to show it's not a new problem)
 
 ### The Problem 
 
@@ -15,7 +15,7 @@ the start of the *generic coding movement* (for example, instead of "format-17" 
 
 ### IBM's GML
 
-In 1969, three guys at IBM conduct a project for integrated law office information systems: Goldfarb, Mosher, and Lowrie. They come up with the *Generalized Markup Language* (**GML**), as a means of allowing text editing, formatting, and information retrieval systems to share documents. GML is based on the generic coding ideas, but rather than a tagging scheme it introduces the concept of a formally-defined document type with an explicit nested element structure. 
+In 1969, three guys at IBM conduct a project for integrated law office information systems: Goldfarb, Mosher, and Lowrie. They come up with the *Generalized Markup Language* (**GML**), as a means of allowing text editing, formatting, and information retrieval systems to share documents. GML is based on the generic coding ideas, but rather than a tagging scheme it introduces the concept of a formally-defined **document type** with an explicit nested element structure. 
 
 GML was implemented in mainframe industrial-strength publishing systems. (IBM was the second largest publisher in the world!)
 
@@ -31,7 +31,10 @@ In 1986, the first approved version of SGML is published - using a system develo
 
 ### HTML
 
-In 1980, Tim Berners-Lee prposed a system for researchers to use and share documents. In 1989 he proposes an internet-based hypertext system with a simple HyperText Mark-up Language, strongly inspired on SGMLguid (a CERN Application of SGML). Together with Robert Cailliau he develops a first version (18 elements!)
+* 1980: Tim Berners-Lee, a contractor at CERN, proposes and prototypes a system for researchers to use and share documents.
+* 1989: He proposes an internet-based hypertext system.
+* 1990: He specifies a simple HyperText Mark-up Language and writes browser and server software.
+* 1991: He issues the first public description of HTML, comprising **18 elements**, strongly inspired on SGMLguid (a CERN Application of SGML). 
 
 ### XML and CSS
 
@@ -47,3 +50,8 @@ http://www.csszengarden.com/
 * Identical html
 * different images and CSS
 * resulting in [radically different visuals](http://www.mezzoblue.com/zengarden/alldesigns/)!
+
+## Reading material
+
+* https://en.wikipedia.org/wiki/Separation_of_content_and_presentation
+
