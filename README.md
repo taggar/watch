@@ -8,6 +8,7 @@ In a Hurry? Scroll to the end!
 
 *Electronic manuscripts contained control codes or macros for formatting/layout.* In other words: content and layout were all mixed up in the same "machine code", **specific to the process that was being performed and to the system that was performing it. These codes and macros tended to be proprietary, leading to **issues of exchange, and repeated typesetting costs** (e.g. when printers were using different printing presses, or when a press was replaced by a new one from a different manufacturer).
 
+
 ### The Spark: GCA GenCode&reg;
 
 September 1967: a Presentation by William Tunnicliffe from the GCA (Graphic Communications Association) at the Canadian Government Printing Office  on **"The separation of information content of documents from their format"** leads to 
@@ -36,22 +37,41 @@ In 1986, the first approved version of SGML is published - using a system develo
 * 1990: He specifies a simple HyperText Mark-up Language and writes browser and server software.
 * 1991: He issues the first public description of HTML, comprising **18 elements**, strongly inspired on SGMLguid (a CERN Application of SGML). 
 
-### XML and CSS
+### The Slippery Slope of the 90s 
 
-1996, the proliferating practice of creating web pages that - again - mix content and formatting instructions and use HTML as a formatting language sparks a movement for 
+In the 90s, the advent of desktop publishing and WYSIWYG also led to a proliferating practice of creating web pages that use HTML as a formatting language and in doing so - again - mixed content and formatting instructions
 
-* more semantics (an SGML for the web, later to be XML)
+This sparked a movement for:
+
+* more semantics (an *SGML for the web*, later to be XML)
 * a separate way of coding style and layout (CSS, Cascading Style Sheets)
+
+
+
+## 1996: Enter CSS
+
+CSS is designed to **enable the separation of presentation and content**, including layout, colors, and fonts.
+
+This separation can 
+* improve content accessibility, 
+* provide more flexibility and control in the specification of presentation characteristics, 
+* enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, and 
+* reduce complexity and repetition in the structural content.
+
+Separation of formatting and content also makes it feasible to **present the same markup page in different styles for different rendering methods, such as on-screen, in print, by voice (via speech-based browser or screen reader), and on Braille-based tactile devices**. 
+
+
 
 ## Illustrating the Idea of Separating Content from Form
 
 http://www.csszengarden.com/
 
 * Identical html
-* different images and CSS
-* resulting in [radically different visuals](http://www.mezzoblue.com/zengarden/alldesigns/)!
+* Different images and CSS
+* Resulting in [radically different visuals](http://www.mezzoblue.com/zengarden/alldesigns/)!
 
 ## Reading material
 
+* https://en.wikipedia.org/wiki/Cascading_Style_Sheets
 * https://en.wikipedia.org/wiki/Separation_of_content_and_presentation
 
