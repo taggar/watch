@@ -43,7 +43,7 @@ SGML is the basis for the later HTML (an application of SGML, defining a specifi
 * 1991: He issues the first public description of HTML, comprising **18 elements**, strongly inspired on SGMLguid (a CERN Application of SGML). 
 * 1995: HTML 2.0 is published as RFC 1866 (Request For Comments). 
 
-The advent of desktop publishing and WYSIWYG for the masses (sometimes called WYSIWYD - What You See Is What You Deserve - by those "in the know" -- hands up, those who remember the joys of converting publications between Ventura, PageMaker, Interleaf, DECWrite, ...) also led to a proliferating practice of creating web pages that used HTML as a formatting language and in doing so - again - mixed content and formatting instructions. 
+The advent of desktop publishing and **WYSIWYG** for the masses (sometimes called *WYSIWY__D__* - What You See Is What You **Deserve** - by those "in the know" -- hands up, those who remember the joys of converting publications between Ventura, PageMaker, Interleaf, DECWrite, ...) also led to a **proliferating practice of creating web pages that used HTML as a formatting language and in doing so - again - mixed content and formatting instructions**. 
 
 <img src="bloated-bad-markup.gif" width="500px">
 This sparked a movement for:
