@@ -8,5 +8,5 @@
 
 ## 4. How many elements did the first version of HTML contain? Less than 20, between 20 and 40, or more than 40?
 
-## 5. True or False: the first version of HTML already supported tables.
+## 5. True or False: the first version of HTML supported tables.
 
